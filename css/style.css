@@ -1,0 +1,36 @@
+body{
+	background-color: #ADD8E6;
+	color: black;
+}
+*{
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+html{
+	scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+}
+
+.form-login{
+	max-width: 350px;
+	padding: 15px;
+	margin: auto;
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 5px;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.social-media-buttons{
+	font-size: 26px;
+	letter-spacing: 5px;
+	color: black;
+}
+.social-media-buttons p a {
+	color: black;
+    text-decoration: none;
+}

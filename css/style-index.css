@@ -1,0 +1,11 @@
+body{
+	margin: 200px auto;
+	align-items: center;
+	background: url("../images/bg.jpg") center !important;
+}
+.container{
+	width: 500px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
